@@ -1,0 +1,1 @@
+var lettere = ["a","e","i","o","s","m"];
